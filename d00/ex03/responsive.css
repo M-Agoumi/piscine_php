@@ -1,0 +1,16 @@
+td {border: 1px solid black;}
+h2 {text-align:center; margin-bottom:0; margin-top:0; font-size: 1.7vw;}
+p {font-size:1vw;}
+.mass {text-align:right;}
+.void {border: none;}
+.yellow {background-color:yellow;}
+.cyan {background-color:cyan;}
+.green {background-color:green;}
+.red {background-color:red;}
+.orange {background-color:orange;}
+.blue {background-color:#ff00ff;}
+.royalblue {background-color:royalblue;}
+.darkgreen {background-color:darkgreen;}
+.purle {background-color:purple;}
+.rebeccapurple {background-color:rebeccapurple;}
+table {width:100%; border-spacing: 0px; table-layout:fixed; position: relative;}
