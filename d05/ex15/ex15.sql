@@ -1,3 +1,3 @@
-SELECT REVERSE(SUBSTR(telephone, 2)) AS 'enohpelet'
+SELECT REVERSE(RIGHT(phone_number, LENGTH(phone_number) - 1)) AS 'rebmunenohp'
 FROM distrib
-WHERE telephone LIKE '05%';
+WHERE phone_number LIKE '05%';
